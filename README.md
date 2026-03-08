@@ -10,7 +10,7 @@
 
 ## 🖼️ Ukážka projektu
 
-<img src="./assets/frontend-preview.png" width="600">
+<img src="./frontend-preview.png" width="400">
 *Ukážka používateľského rozhrania pre nákup a predaj v rámci presale.*
 
 ---
