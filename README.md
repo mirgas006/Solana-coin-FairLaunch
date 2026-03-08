@@ -4,7 +4,7 @@
 [![Solana](https://img.shields.io/badge/Solana-Blockchain-black?logo=solana)](https://solana.com/)
 [![Anchor](https://img.shields.io/badge/Anchor-Framework-blue)](https://www.anchor-lang.com/)
 
-**Decentralizované a bezpečné riešenie pre spúšťanie tokenov na sieti Solana.** Tento protokol rieši najväčší problém krypto-investícií: bezpečnosť a dôveru. Developer nemá prístup k vyzbieraným prostriedkom, kým nie je naplnený cieľ a zabezpečená likvidita.
+**Decentralizované a bezpečné riešenie pre spúšťanie tokenov na sieti Solana.** Tento protokol rieši najväčší problém krypto-investícií: bezpečnosť a dôveru. Developer nemá prístup k vyzbieraným prostriedkom v žiadnej fáze launchu.
 
 ---
 
@@ -17,10 +17,9 @@
 
 ## ✨ Kľúčové Funkcionality
 
-* **🔒 Trustless Escrow:** Všetky SOL investované počas presale sú spravované smart kontraktom (Program Derived Address). Nikto, ani vývojár, ich nemôže vybrať manuálne.
-* **⚡ Automatické kótovanie (Raydium):** Po dosiahnutí cieľovej sumy (Hard Cap) môže ktokoľvek zavolať funkciu na uvoľnenie likvidity priamo do Raydium DEX.
+* **🔒 Escrow systém:** Všetky SOL investované počas presale sú spravované smart kontraktom (Program Derived Address). Nikto, ani vývojár, ich nemôže vybrať manuálne.
+* **⚡ Automatické kótovanie na burze (Raydium):** Po dosiahnutí cieľovej sumy (Hard Cap) môže ktokoľvek zavolať funkciu na uvoľnenie likvidity priamo do Raydium DEX.
 * **🛡️ Investor Refund System:** Ak sa nevyzbiera cieľová suma, investori môžu svoje tokeny kedykoľvek predať späť kontraktu za pôvodnú cenu (v SOL).
-* **💎 Fair Distribution:** Žiadne "insider" tokeny – distribúcia prebieha na základe vkladov komunity.
 
 ---
 
