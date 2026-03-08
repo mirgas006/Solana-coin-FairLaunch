@@ -10,7 +10,7 @@
 
 ## 🖼️ Ukážka projektu
 
-![Solana FairLaunch Frontend Preview](./frontend-preview.png)
+<img src="./assets/frontend-preview.png" width="600">
 *Ukážka používateľského rozhrania pre nákup a predaj v rámci presale.*
 
 ---
