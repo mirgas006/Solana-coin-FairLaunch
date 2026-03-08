@@ -1,1 +1,1 @@
-# DonaldCoin
+# Solana Coin Fairlaunch
