@@ -1,6 +1,5 @@
 # Solana FairLaunch
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Blockchain-black?logo=solana)](https://solana.com/)
 [![Anchor](https://img.shields.io/badge/Anchor-Framework-blue)](https://www.anchor-lang.com/)
 
